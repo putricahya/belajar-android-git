@@ -5,4 +5,22 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="go_to_fragment">Go to Fragment</string>
     <string name="go_to_activity">Go to Activity</string>
+
+    <string name="second_activity">Selamat datang di Second Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">Ini First Fragment</string>
+    <string name="lanjut">Klik untuk lanjut</string>
+    <string name="second_fragment">Ini Second Fragment</string>
+    <string name="splash_screen">ANDROID STUDIO</string>
+    <string name="email_anda">Email anda</string>
+    <string name="password_anda">Password anda</string>
+    <string name="email">Email</string>
+    <string name="silahkan_login">Silahkan Login</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="hello_putri">Hallo Putri Cahya</string>
+    <string name="name">username</string>
+    <string name="title_activity_login">"Login "</string>
 </resources>
